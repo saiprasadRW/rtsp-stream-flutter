@@ -1,0 +1,4 @@
+rust_input: "crate::frame_processor"
+rust_root: native/
+dart_output: lib/bridge_generated.dart
+dart_entrypoint_class_name: Native
